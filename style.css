@@ -1,0 +1,29 @@
+/* challenge.css */
+
+/* Style the button when hovered over */
+button:hover {
+    background-color: lightblue;
+    color: white;
+}
+
+/* Style the button when it is active (being clicked) */
+button:active {
+    background-color: darkblue;
+    color: white;
+}
+
+/* Style the input field when focused */
+input:focus {
+    border: 2px solid green;
+}
+
+/* Style the link when hovered over */
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+/* Style the link when it is visited */
+a:visited {
+    color: purple;
+}
